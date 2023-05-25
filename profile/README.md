@@ -2,7 +2,7 @@
 This is the repository for the KernTrafo Project. 
 The Project is funded by the BMBF and deals with a transformational concept for human ressources for the decomissioning of nuclear power plants in Germany.
 
-The three challenges in decommissioning nuclear power plants are as follows:
+#### The three challenges in decommissioning nuclear power plants are as follows:
 
 1. Fundamental changes in (work) requirements with the same personnel
 
@@ -23,13 +23,13 @@ In order to achieve an increase in motivation, managers learn how to deal with c
 
 **Project component 3: Job crafting**
 
-Initial research findings provide promising evidence that job crafting can increase employees' willingness to change. Within this project component, employees learn how they can become designers of their own jobs.
+Initial research findings provide promising evidence that job crafting can increase employees' willingness to change. Within this project component, employees learn how to craft their own jobs.
 
 
 # Deutsch
 KernTrafo - Transformationskonzept für Personal von Kernkraftwerken im Rückbau
 
-Die drei Herausforderungen beim Rückbau von Kernkraftwerken sind folgende:
+#### Die drei Herausforderungen beim Rückbau von Kernkraftwerken sind folgende:
 
 1. Grundlegende Veränderungen der (Arbeits-) Anforderungen bei gleichbleibendem Personal
 
@@ -38,13 +38,16 @@ Die drei Herausforderungen beim Rückbau von Kernkraftwerken sind folgende:
 3. Transformation und operative Findungsphase führen zu Verunsicherung und geringer Motivation bei den Mitarbeitenden
 
 
-Das Projekt KernTrafo adressiert diese drei Herausforderungen mit den folgenden drei Projektkomponenten:
+#### Das Projekt KernTrafo adressiert diese drei Herausforderungen mit den folgenden drei Projektkomponenten:
 
-Projektkomponente 1: Machine Learning
+**Projektkomponente 1: Machine Learning**
+
 Durch Machine Learning wird die Identifikation von Kompetenzen für einzelne Rückbauphasen durchgeführt.
 
-Projektkomponente 2: Paradoxe Führung
+**Projektkomponente 2: Paradoxe Führung**
+
 Um eine Steigerung der Motivation zu erreichen, erlernen die Führungskräfte den souveränen Umgang mit widersprüchlichen Anforderungen.
 
-Projektkomponente 3: Job Crafting
+**Projektkomponente 3: Job Crafting**
+
 Erste Forschungsergebnisse liefern vielversprechende Hinweise, dass Job Crafting die Veränderungsbereitschaft von Mitarbeitern steigern kann. Mitarbeiter erlernen innerhalb dieser Projektkomponente, wie sie selbst Gestalter ihres eigenen Jobs werden können. 
