@@ -10,15 +10,19 @@ The three challenges in decommissioning nuclear power plants are as follows:
 
 3. Transformation and operational exploration phase leading to uncertainty and low motivation among employees
 
+
 The KernTrafo project addresses these three challenges with the following three project components:
 
 **Project Component 1: Machine Learning**
+
 Machine Learning is used to identify competencies for individual deconstruction phases.
 
 **Project component 2: Paradoxical leadership**
+
 In order to achieve an increase in motivation, managers learn how to deal with contradictory requirements in a confident manner.
 
 **Project component 3: Job crafting**
+
 Initial research findings provide promising evidence that job crafting can increase employees' willingness to change. Within this project component, employees learn how they can become designers of their own jobs.
 
 
