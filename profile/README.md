@@ -4,21 +4,24 @@ The Project is funded by the BMBF and deals with a transformational concept for 
 
 The three challenges in decommissioning nuclear power plants are as follows:
 
-1. fundamental changes in (work) requirements.
+1. Fundamental changes in (work) requirements with the same personnel
 
-2. low motivation of employees
+2. Personnel restructuring of leadership and workforce
 
-3. unchanging staffing levels
+3. Transformation and operational exploration phase leading to uncertainty and low motivation among employees
 
 The KernTrafo project addresses these three challenges with the following three project components:
 
 Project Component 1: Machine Learning
+
 Machine Learning is used to identify competencies for individual deconstruction phases.
 
 Project component 2: Paradoxical leadership
+
 In order to achieve an increase in motivation, managers learn how to deal with contradictory requirements in a confident manner.
 
 Project component 3: Job crafting
+
 Initial research findings provide promising evidence that job crafting can increase employees' willingness to change. Within this project component, employees learn how they can become designers of their own jobs.
 
 
@@ -27,11 +30,12 @@ KernTrafo - Transformationskonzept für Personal von Kernkraftwerken im Rückbau
 
 Die drei Herausforderungen beim Rückbau von Kernkraftwerken sind folgende:
 
-1. Grundlegende Veränderungen der (Arbeits-)Anforderungen
+1. Grundlegende Veränderungen der (Arbeits-) Anforderungen bei gleichbleibendem Personal
 
-2. Geringe Motivation der Mitarbeiter
+2. Personelle Umstrukturierung der Führung und des Mitarbeiter:innenstamms
 
-3. Gleichbleibender Personalstamm
+3. Transformation und operative Findungsphase führen zu Verunsicherung und geringer Motivation bei den Mitarbeitenden
+
 
 Das Projekt KernTrafo adressiert diese drei Herausforderungen mit den folgenden drei Projektkomponenten:
 
