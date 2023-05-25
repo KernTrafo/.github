@@ -11,7 +11,7 @@ The three challenges in decommissioning nuclear power plants are as follows:
 3. Transformation and operational exploration phase leading to uncertainty and low motivation among employees
 
 
-The KernTrafo project addresses these three challenges with the following three project components:
+#####The KernTrafo project addresses these three challenges with the following three project components:
 
 **Project Component 1: Machine Learning**
 
